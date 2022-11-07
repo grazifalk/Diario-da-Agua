@@ -20,4 +20,4 @@
 
 <br/>
 
-![preview](./.github/preview.jpg)
+![preview](preview.JPG)
