@@ -16,7 +16,7 @@
 
 <br/>
 
-[🔗 Clique aqui para acessar](https://grazifalk.github.io/Diario-da-Agua/)
+[🔗 Clique aqui para acessar](https://diario-da-agua.netlify.app/)
 
 <br/>
 
