@@ -1,4 +1,4 @@
-# Diario da Água
+# 💧Diario da Água💦
 
 > Site para monitorar e registrar o consumo diário de água.
 
@@ -14,6 +14,10 @@
 - Opção para definir uma meta de ingestão diária de água e mostrar uma mensagem quando a pessoa conseguir atingir.
 - Diário da água: Exibir histórico com a data e hora que a pessoa bebeu (clicou no botão).
 
-![preview](./.github/preview.jpg)
+<br/>
 
 [🔗 Clique aqui para acessar](#)
+
+<br/>
+
+![preview](./.github/preview.jpg)
