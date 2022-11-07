@@ -1,0 +1,45 @@
+button {
+    margin: 16px;
+}
+
+.hora {
+    width: 200px;
+}
+
+.horario {
+    margin: 0px 64px;
+}
+
+.App {
+    display: flex;
+    margin: 40px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: rgba(55, 146, 242, 0.8);
+    
+}
+body {
+    background-image: url("https://img.freepik.com/premium-vector/seamless-horizontal-border-web-baner-with-cute-happy-funny-bottles-glasses-vector-cartoon-kawaii-character-water-drink-more-water-every-day-concept_521005-1578.jpg?w=1380");
+    opacity: 0.8;
+    background-repeat: repeat;
+    background-color: #000000; /* Used if the image is unavailable */
+   /* background-repeat: no-repeat; /* Do not repeat the image */
+    /* background-size: cover; Resize the background image to cover the entire container */
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+input {
+    font-size: x-large;
+    text-align: center;
+}
+
+h3 {
+    font-size: xx-large;
+}
+
+.relatorio {
+    font-size: medium;
+}
